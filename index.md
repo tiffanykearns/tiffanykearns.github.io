@@ -4,7 +4,7 @@ Hello! My name is Tiffany Kearns. I am a student at [Cal State Fullerton](http:/
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/tiffanykearns.
+My GitHub page is [http://github.com/tiffanykearns](http://github.com/tiffanykearns).
 
 ### Favorite CPSC 120L Labs
 * Lab 1 was one of my favorites because it was exciting to learn the foundations of coding. I was able to successfully code my first working program using a coding language that was unfamiliar to me. I learned how to confidently use std::cout to print out messages onto the terminal, and then commit and push my work.
